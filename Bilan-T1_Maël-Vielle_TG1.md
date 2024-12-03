@@ -1,7 +1,18 @@
 # Maël  Vielle  TG1
-# Fiche pour le Conseil de Classe
+# Bilan T1
 
-## Projet d'orientation
+## Ressentis et sensations 1er trimestre
+
+- **Points forts** :  
+  J'ai  d'assez bonnes  capacités à comprendre  ce  que l'on  me  demande,  et  de  ce  que les cours traitent  en  SES,  ou  en  HLP et  j'arrive aisément à élaborer  des ponts,  liens entre chaque.(dans mes spé ici).
+  Cependant,  je  manque  de  travaille pour  retenir l'ensemble  des informations  et  ainsi retranscrire  par la  suite. Donc  il  me  faut  un  peu plus  de  travail et  gagner en  efficacité.  En  tronc-commun  je  fais  de  mon mieux, c'est  assez inégale  mais  j'arrive  à garder  le  cap.
+
+- **Axes d'amélioration** :  
+  Il  me  faut  une meilleure gestion de  mes projets en  cours,  un  peu plus  d'organisation  et  surtout que je  fasse attention à mon sommeil qui laisse  à désirer.  La  fatigue m'a fais  échoué  en  partie  mon épreuve de  sport ce  trimestre et  je  me  suis  bléssé, beacoup de  stress. Je  me  met beaucoup  de  pression  vis à vis aussi de l'examen d'anglais qui m'attend  à la  fin de  l'année.  (pression   dû  à ce  même  type d'examen  que  j'ai  loupé en  3e)  J'essaye  un  maximun de  travailler  en  prenant en  compte  les conseils  que l'on  m'a transmis.
+  Allié lycée (concours éloquence,  CVL),  projets  jounarlistiques (AJT, Book), sport (Danse), conduite accompagnée et  famille devient vraiment  complexe.  Trouver le  meilleur  équilibre pour  tout  ça  reste mon objectif.
+# Orientation
+
+## Projet
 - **Objectifs** :  
   - Métiers du Journalisme / de la Communication
   - Métier Visé > JRI (Journaliste Reporter d'Images)
@@ -33,13 +44,3 @@
 - 09/01-11/01 2025 -> Salon du lycéen et de l'étudiant Rennes - (présence de l'ESJ de Lille)
 - 01/02/2025 -> JPO ESJ Lille
 - 08/03/2025 -> JPO IUT de Lannion
-
-## Ressentis et sensations 1er trimestre
-
-- **Points forts** :  
-  J'ai  d'assez bonnes  capacités à comprendre  ce  que l'on  me  demande,  et  de  ce  que les cours traitent  en  SES,  ou  en  HLP et  j'arrive aisément à élaborer  des ponts,  liens entre chaque.(dans mes spé ici).
-  Cependant,  je  manque  de  travaille pour  retenir l'ensemble  des informations  et  ainsi retranscrire  par la  suite. Donc  il  me  faut  un  peu plus  de  travail et  gagner en  efficacité.  En  tronc-commun  je  fais  de  mon mieux, c'est  assez inégale  mais  j'arrive  à garder  le  cap.
-
-- **Axes d'amélioration** :  
-  Il  me  faut  une meilleure gestion de  mes projets en  cours,  un  peu plus  d'organisation  et  surtout que je  fasse attention à mon sommeil qui laisse  à désirer.  La  fatigue m'a fais  échoué  en  partie  mon épreuve de  sport ce  trimestre et  je  me  suis  bléssé, beacoup de  stress. Je  me  met beaucoup  de  pression  vis à vis aussi de l'examen d'anglais qui m'attend  à la  fin de  l'année.  (pression   dû  à ce  même  type d'examen  que  j'ai  loupé en  3e)  J'essaye  un  maximun de  travailler  en  prenant en  compte  les conseils  que l'on  m'a transmis.
-  Allié lycée (concours éloquence,  CVL),  projets  jounarlistiques (AJT, Book), sport (Danse), conduite accompagnée et  famille devient vraiment  complexe.  Trouver le  meilleur  équilibre pour  tout  ça  reste mon objectif.
