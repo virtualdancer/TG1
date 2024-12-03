@@ -43,7 +43,7 @@
   BTS Audiovisuel Option  Image ou Montage à Lesneven. -> https://btsaudiovisuel.fr/
 
 
-### Dates imporatntes prochainement :
+### Dates importantes prochainement :
 - 09/01-11/01 2025 -> Salon du lycéen et de l'étudiant Rennes - (présence de l'ESJ de Lille)
 - 01/02/2025 -> JPO ESJ Lille
 - 08/03/2025 -> JPO IUT de Lannion
