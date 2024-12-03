@@ -9,7 +9,7 @@
 ## **Filières envisagées** :
 
 ### Premier choix :
-  Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme) -> (Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf)
+  Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme) -> Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf
 
   Détails : L’Académie ESJ Lille, en partenariat avec l’Université de Lille, permet aux étudiants de préparer les épreuves de sélection des écoles de journalisme tout en suivant la licence associée de leur choix.
   Licence envisagée : 
