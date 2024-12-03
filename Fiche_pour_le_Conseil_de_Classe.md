@@ -13,7 +13,7 @@
   Détails : L’Académie ESJ Lille, en partenariat avec l’Université de Lille, permet aux étudiants de préparer les épreuves de sélection des écoles de journalisme tout en suivant la licence associée de leur choix.
   Licence envisagée : 
   Études culturelles, parcours Culture et médias.
-  (- Par rapport au  théatre,  la  danse et  les compétences visées  c'est la  Licence qui me  correspondrai le  plus  et que j'aimerai vraiment  intégrer.)
+  (Par rapport à la danse, au théatre,et à toute autres formes d'arts. Les compétences et attendus visées de cette Licence me plaisent.)
 
 ### Second choix :
   BUT - Information-Communication Parcours Journalisme IUT de Lannion.
