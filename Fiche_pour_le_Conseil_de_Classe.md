@@ -3,8 +3,8 @@
 
 ## Projet d'orientation
 - **Objectifs** :  
-  Métiers du Journalisme / de la Communication
-  Métier Visé > JRI (Journaliste Reporter d'Images)
+  - Métiers du Journalisme / de la Communication
+  - Métier Visé > JRI (Journaliste Reporter d'Images)
 
 ## **Filières envisagées** :
 
