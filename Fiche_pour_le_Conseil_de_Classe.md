@@ -8,15 +8,15 @@
 
 ## **Filières envisagées** :
 
-### Premier choix :
+### Premier choix : 
   Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme)
-  -> https://github.com/virtualdancer/TG1/blob/f02d1be532577741584078dd40cda9bc4c4b6b6c/Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf
+  - https://github.com/virtualdancer/TG1/blob/f02d1be532577741584078dd40cda9bc4c4b6b6c/Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf
 
   Détails : L’Académie ESJ Lille, en partenariat avec l’Université de Lille, permet aux étudiants de préparer les épreuves de sélection des écoles de journalisme tout en suivant la licence associée de leur choix.
   Licence envisagée : 
   Études culturelles, parcours Culture et médias.
   (Par rapport à la danse, au théatre,et à toute autres formes d'arts. Les compétences et attendus visées de cette Licence me plaisent.)
-  -> https://www.univ-lille.fr/formations/fr-00001917
+  - https://www.univ-lille.fr/formations/fr-00001917
 
 ### Second choix :
   BUT - Information-Communication Parcours Journalisme IUT de Lannion. -> https://iut-lannion.univ-rennes.fr/information-communication-parcours-journalisme
