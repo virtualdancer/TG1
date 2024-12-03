@@ -10,9 +10,12 @@
 - **Axes d'amélioration** :  
   Il  me  faut  une meilleure gestion de  mes projets en  cours,  un  peu plus  d'organisation  et  surtout que je  fasse attention à mon sommeil qui laisse  à désirer.  La  fatigue m'a fais  échoué  en  partie  mon épreuve de  sport ce  trimestre et  je  me  suis  bléssé, beacoup de  stress. Je  me  met beaucoup  de  pression  vis à vis aussi de l'examen d'anglais qui m'attend  à la  fin de  l'année.  (pression   dû  à ce  même  type d'examen  que  j'ai  loupé en  3e)  J'essaye  un  maximun de  travailler  en  prenant en  compte  les conseils  que l'on  m'a transmis.
   Allié lycée (concours éloquence,  CVL),  projets  jounarlistiques (AJT, Book), sport (Danse), conduite accompagnée et  famille devient vraiment  complexe.  Trouver le  meilleur  équilibre pour  tout  ça  reste mon objectif.
-# Orientation
 
-## Projet
+---
+  
+# Orientation :
+
+## Projet : 
 - **Objectifs** :  
   - Métiers du Journalisme / de la Communication
   - Métier Visé > JRI (Journaliste Reporter d'Images)
