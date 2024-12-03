@@ -2,11 +2,11 @@
 # Fiche pour le Conseil de Classe
 
 ## Projet d'orientation
-- **Objectifs envisagés** :  
+- **Objectifs** :  
   Métiers du Journalisme / de la Communication
   Métier Visé > JRI (Journaliste Reporter d'Images)
 
-## - **Filières ou domaines d'intérêt** :
+## **Filières envisagées** :
 
 ### Premier choix :
   Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme)-
