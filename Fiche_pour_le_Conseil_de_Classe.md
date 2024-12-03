@@ -6,7 +6,7 @@
   Métiers du Journalisme / de la Communication
   Métier Visé > JRI (Journaliste Reporter d'Images)
 
-- **Filières ou domaines d'intérêt** :
+## - **Filières ou domaines d'intérêt** :
 
 ### Premier choix :
   Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme)-
