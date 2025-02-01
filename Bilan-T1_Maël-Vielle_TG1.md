@@ -13,37 +13,74 @@
 
 ---
   
-# Orientation :
+# Orientation
 
-## Projet : 
-- **Objectifs** :  
-  - Métiers du Journalisme / de la Communication
-  - Métier Visé > JRI (Journaliste Reporter d'Images)
+## Projet
 
-## **Filières envisagées** :
+### Objectifs :
+Métiers du Journalisme / de la Communication  
+**Métier Visé** > JRI (Journaliste Reporter d'Images)
 
-### Premier choix : 
-  Formation Post-Bac à l'ESJ de Lille (école supérieure de journalisme)
-  - https://github.com/virtualdancer/TG1/blob/f02d1be532577741584078dd40cda9bc4c4b6b6c/Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf
+## Dates importantes prochainement :
+- **09/01 au 11/01 2025** -> Salon du lycéen et de l'étudiant Rennes - (présence de l'ESJ de Lille)
+- **23/01 au 25/01 2025** -> Salon Azimut Brest.
+- **08/02/2025** -> JPO EcoFac.
+- **01/03/2025** -> JPO UCO Vannes.
+- **08/03/2025** -> JPO IUT de Lannion.
+- **15/03/2025** -> JPO Campus the Land.
 
-  Détails : L’Académie ESJ Lille, en partenariat avec l’Université de Lille, permet aux étudiants de préparer les épreuves de sélection des écoles de journalisme tout en suivant la licence associée de leur choix.
-- Licence envisagée : 
-  Études culturelles, parcours Culture et médias.
-  Par rapport à la danse, au théatre, et aux arts en général. Les compétences et attendus visées de cette Licence me plaisent et je pense qu'elle me correspond.
-  - https://www.univ-lille.fr/formations/fr-00001917
+## Liens Utiles :
+- [Parcoursup](https://www.parcoursup.gouv.fr/)
+- [Services Étudiants](https://messervices.etudiant.gouv.fr)
+- [Thotis Media](https://thotismedia.com/)
 
-### Second choix :
-  BUT - Information-Communication Parcours Journalisme IUT de Lannion. -> https://iut-lannion.univ-rennes.fr/information-communication-parcours-journalisme
+---
 
-### Troisième choix :
-  BUT - Information-Communication Parcours (COMOR)Communication des Organisations IUT de Lannion/Dijon.
+## Filières envisagées (Voeux) :
 
-  Licence Communication à UCO Brest.
+### BUT :
+- **BUT - Information-Communication Parcours Journalisme IUT de Lannion.**  
+  [Lien](https://iut-lannion.univ-rennes.fr/information-communication-parcours-journalisme)
 
-  BTS Audiovisuel Option  Image ou Montage à Lesneven. -> https://btsaudiovisuel.fr/
+- **BUT - Information-Communication Parcours (COMOR) Communication des Organisations IUT de Lannion/Dijon.**  
+  [Lien](https://iut-lannion.univ-rennes.fr/information-communication-parcours-communication-des-organisations)
 
+- **BUT - MMI (Métiers du Multimédia et de l'Internet).**  
+  [Lien](https://iut-lannion.univ-rennes.fr/metiers-du-multimedia-et-de-linternet)
 
-### Dates importantes prochainement :
-- 09/01-11/01 2025 -> Salon du lycéen et de l'étudiant Rennes - (présence de l'ESJ de Lille)
-- 01/02/2025 -> JPO ESJ Lille
-- 08/03/2025 -> JPO IUT de Lannion
+### Licences :
+- **Licence Info/Communication à UCO Brest/Vannes.**  
+  [Brest](https://brest.uco.fr/fr/formations/humanites/licence-information-communication-brest)  
+  [Vannes](https://vannes.uco.fr/fr/formations/humanites/licence-information-et-communication-bretagne)
+
+- **Licence Études culturelles, parcours Culture et médias à l'Université de Lille.**  
+  [Lien Université Lille](https://www.univ-lille.fr/formations/fr-00001917)  
+  [Lien Parcoursup](https://dossier.parcoursup.fr/Candidats/public/fiches/afficherFicheFormation?g_ta_cod=28843)
+
+### BTS :
+- **BTS Audiovisuel Option Image ou Montage à Lesneven.**  
+  [Lien](https://btsaudiovisuel.fr/)
+
+- **BTS Communication Ecofac Rennes.**  
+  [Lien](https://www.ecofac.fr/formation/bts-communication-rennes/)
+
+### The Land Campus - Médiatica
+- [Campus The Land](https://www.the-land.bzh/campus/enseignement-superieur/mediatica/)
+- [BTS Communication](https://www.the-land.bzh/campus/enseignement-superieur/nos-formations/bts-communication/)
+- [Bachelor Journalisme](https://www.the-land.bzh/campus/enseignement-superieur/nos-formations/bachelor-journalisme/)
+
+### Autres :
+- **Formation Post-Bac à l'ESJ de Lille (École Supérieure de Journalisme)**  
+  [Lien PDF](https://github.com/virtualdancer/TG1/blob/f02d1be532577741584078dd40cda9bc4c4b6b6c/Academie-palquette-esj-lille-ecole-de-journalisme-reconnue-web.pdf)
+  
+  **Détails :** L’Académie ESJ Lille, en partenariat avec l’Université de Lille, permet aux étudiants de préparer les épreuves de sélection des écoles de journalisme tout en suivant la licence associée de leur choix.
+
+---
+
+## Licence envisagée :
+
+**Licence Études culturelles, parcours Culture et médias.**  
+Cette formation est en lien avec mes intérêts pour la danse, le théâtre et les arts en général. Les compétences et attendus visés dans cette licence me plaisent et je pense qu'elle me correspond pleinement.
+
+[Lien vers la formation](https://www.univ-lille.fr/formations/fr-00001917)
+
